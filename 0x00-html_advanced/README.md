@@ -28,6 +28,7 @@ Techium will be the name of the company we will use across our webpages.
 
 ## TASK
 + 0. Create your first webpage (0-index.html)
++ 1. Structure your webpage (1-index.html)
 
 
 ### AUTHOR
