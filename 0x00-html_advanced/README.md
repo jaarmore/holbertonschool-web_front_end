@@ -53,6 +53,7 @@ Techium will be the name of the company we will use across our webpages.
 + 23. Services, Works, Latest news links (23-index.html)
 + 24. List the links (24-index.html)
 + 25. Secondary navigation menu (25-index.html)
++ 26. Examples of lists for the styleguide (26-styleguide.html)
 + 
 
 ### AUTHOR
