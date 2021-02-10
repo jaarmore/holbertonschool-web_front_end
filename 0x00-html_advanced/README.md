@@ -61,6 +61,8 @@ Techium will be the name of the company we will use across our webpages.
 + 31. Address and latest news authors (31-index.html)
 + 32. Typography section - using the correct tags (32-styleguide.html)
 + 33. Table (33-styleguide.html)
++ 34. Details (34-styleguide.html)
++ 
 
 ### AUTHOR
 **JACKSON MORENO**
