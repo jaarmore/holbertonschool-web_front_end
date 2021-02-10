@@ -55,7 +55,7 @@ Techium will be the name of the company we will use across our webpages.
 + 25. Secondary navigation menu (25-index.html)
 + 26. Examples of lists for the styleguide (26-styleguide.html)
 + 27. Separate content (27-index.html)
-+ 
++ 28. Horizontal rule example (28-styleguide.html)
 
 ### AUTHOR
 **JACKSON MORENO**
