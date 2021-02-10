@@ -52,6 +52,7 @@ Techium will be the name of the company we will use across our webpages.
 + 22. "Button" links (22-index.html)
 + 23. Services, Works, Latest news links (23-index.html)
 + 24. List the links (24-index.html)
++ 25. Secondary navigation menu (25-index.html)
 + 
 
 ### AUTHOR
