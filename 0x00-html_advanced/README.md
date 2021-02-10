@@ -57,6 +57,7 @@ Techium will be the name of the company we will use across our webpages.
 + 27. Separate content (27-index.html)
 + 28. Horizontal rule example (28-styleguide.html)
 + 29. Client quotes (29-index.html)
++ 30. Examples of quotes (30-styleguide.html)
 + 
 
 ### AUTHOR
