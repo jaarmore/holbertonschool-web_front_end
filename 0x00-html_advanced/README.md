@@ -62,6 +62,7 @@ Techium will be the name of the company we will use across our webpages.
 + 32. Typography section - using the correct tags (32-styleguide.html)
 + 33. Table (33-styleguide.html)
 + 34. Details (34-styleguide.html)
++ 35. Replace text logo with image logo (35-index.html)
 + 
 
 ### AUTHOR
