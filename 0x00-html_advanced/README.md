@@ -34,6 +34,7 @@ Techium will be the name of the company we will use across our webpages.
 + 4. Aside (article.html)
 + 5. Section (5-index.html)
 + 6. Work, News, Testimonial articles (6-index.html)
++ 7. Navigation (7-index.html)
 
 ### AUTHOR
 **JACKSON MORENO**
