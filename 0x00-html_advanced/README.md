@@ -65,6 +65,8 @@ Techium will be the name of the company we will use across our webpages.
 + 35. Replace text logo with image logo (35-index.html)
 + 36. Add images to your sections (36-index.html)
 + 37. Social icons (index.html)
++ 38. Add a video player in the styleguide (38-styleguide.html)
++ 
 
 ### AUTHOR
 **JACKSON MORENO**
