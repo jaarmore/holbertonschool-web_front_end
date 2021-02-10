@@ -45,6 +45,8 @@ Techium will be the name of the company we will use across our webpages.
 + 15. Div (15-index.html)
 + 16. Structure your sections (16-index.html)
 + 17. Comments (17-index.html)
++ 18. link your logo (18-index.html)
++ 
 
 
 ### AUTHOR
