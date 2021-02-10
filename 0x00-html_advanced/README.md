@@ -39,6 +39,8 @@ Techium will be the name of the company we will use across our webpages.
 + 9. Level 2 headings (9-index.html)
 + 10. Level 3 headings (10-index.html)
 + 11. styleguide (11-styleguide.html)
++ 12. Paragraphs (12-index.html)
+
 
 ### AUTHOR
 **JACKSON MORENO**
