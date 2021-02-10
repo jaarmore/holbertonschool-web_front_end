@@ -47,6 +47,7 @@ Techium will be the name of the company we will use across our webpages.
 + 17. Comments (17-index.html)
 + 18. link your logo (18-index.html)
 + 19. Create new pages (about.html, latest_news.html, contact.html)
++ 20. Add links (20-index.html)
 + 
 
 
