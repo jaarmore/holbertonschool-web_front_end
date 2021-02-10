@@ -29,6 +29,10 @@ Techium will be the name of the company we will use across our webpages.
 ## TASK
 + 0. Create your first webpage (0-index.html)
 + 1. Structure your webpage (1-index.html)
++ 2. The head - meta charset, viewport, title, description, favicons (2-index.html)
++ 3. Simple header, main, footer (3-index.html)
++ 4. Aside (article.html)
+
 
 
 ### AUTHOR
