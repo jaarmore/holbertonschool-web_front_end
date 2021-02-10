@@ -32,7 +32,7 @@ Techium will be the name of the company we will use across our webpages.
 + 2. The head - meta charset, viewport, title, description, favicons (2-index.html)
 + 3. Simple header, main, footer (3-index.html)
 + 4. Aside (article.html)
-
++ 5. Section (5-index.html)
 
 
 ### AUTHOR
