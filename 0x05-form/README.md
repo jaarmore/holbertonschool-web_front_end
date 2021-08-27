@@ -19,4 +19,4 @@ At the end of this project, you are expected to be able to explain to anyone:
 + `HTML` and `CSS` have been rendered on Chrome 78 or more.
 
 ## AUTHOR
-** JACKSON MORENO**
+**JACKSON MORENO**
