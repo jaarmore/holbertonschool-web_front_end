@@ -11,7 +11,6 @@ For this project, you will use Bootstrap 4.4 and only the CSS styling part.
 + Usage of Components
 + Usage of Utilities
 
-
 ## Requirements
 
 + A `README.md` file, at the root of the folder of the project, is mandatory
@@ -27,6 +26,6 @@ For this project, you will use Bootstrap 4.4 and only the CSS styling part.
 5. Show/Hide - screen size
 6. Overwrite CSS
 
-
 ## AUTHOR
+
 ### JACKSON MORENO
