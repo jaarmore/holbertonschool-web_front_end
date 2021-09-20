@@ -1,6 +1,7 @@
 # 0x07. Accessibility
 
 ## Concepts
+
 For this project, students are expected to look at this concept:
 
 + [A Crash Course on Accessibility](https://intranet.hbtn.io/concepts/186)
@@ -16,8 +17,8 @@ For this project, students are expected to look at this concept:
 0. make the "works" card focus visible
 1. add the skip-links
 2. Elements must have sufficient color contrast
-3. Documents must have <title> element to aid in navigation
-4. <html> element must have a lang attribute
+3. Documents must have `<title>` element to aid in navigation
+4. `<html>` element must have a lang attribute
 5. Images must have alternate text
 6. Form elements must have labels
 7. Links must have discernible text
@@ -26,6 +27,6 @@ For this project, students are expected to look at this concept:
 10. Document must have one main landmark
 11. More than 2 elements become list
 
-
 ### AUTHOR
-**JACKSON MORENO**
+
+### JACKSON MORENO
